@@ -1,0 +1,9 @@
+streamlit
+google-generativeai
+sounddevice
+numpy
+wave
+smtplib
+pandas
+speechrecognition
+pyaudio
