@@ -1,9 +1,7 @@
-streamlit
-google-generativeai
-sounddevice
-numpy
-wave
-smtplib
-pandas
-speechrecognition
-pyaudio
+streamlit==1.24.0
+google-generativeai==0.8.4
+sounddevice==0.5.1
+numpy==2.1.0
+pandas==2.2.3
+speechrecognition==3.10.4
+pyaudio==0.2.14
